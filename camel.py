@@ -16,3 +16,10 @@ for i in range(distance):
     if start==0:
         break
 print(start)
+
+# Output
+# Enter no. of bananas at starting: 3000
+# Enter distance you want to cover: 1000
+# Enter max load capacity of your camel: 1000
+# 533
+
