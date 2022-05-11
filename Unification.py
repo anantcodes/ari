@@ -204,3 +204,9 @@ if __name__ == '__main__':
     else:
         print('Unification successfully!')
         print(result)
+        
+#         Following are some basic conditions for unification:
+
+# Predicate symbol must be same, atoms or expression with different predicate symbol can never be unified.
+# Number of Arguments in both expressions must be identical.
+# Unification will fail if there are two similar variables present in the same expression.
