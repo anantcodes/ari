@@ -276,3 +276,11 @@ if __name__ == '__main__':
     knowledgeBase.prepareKB()
     results_ = knowledgeBase.askQueries(inputQueries_)
     print( results_)
+
+    
+#     Steps for Resolution:
+
+# Conversion of facts into first-order logic.
+# Convert FOL statements into CNF
+# Negate the statement which needs to prove (proof by contradiction)
+# Draw resolution graph (unification).
