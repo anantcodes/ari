@@ -20,3 +20,5 @@ def solve2():
           print(" send"," more"," money")
           return send, more, money
 print(solve2())
+
+# S=9,E=5, N=6, D=7, M=1,O=0, R=8,Y=2
